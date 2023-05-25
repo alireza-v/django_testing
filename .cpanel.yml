@@ -1,0 +1,4 @@
+---
+deployment:
+  tasks:
+    -export DEPLOYPATH=/home/bridgefi/repositories/django_testing
